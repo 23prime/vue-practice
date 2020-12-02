@@ -1,4 +1,4 @@
-# fake-gokabot
+# vue-practice
 
 ## Project setup
 
